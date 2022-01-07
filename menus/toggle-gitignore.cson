@@ -1,0 +1,10 @@
+'context-menu':
+    '.tree-view .full-menu': [
+        { 'label': 'Toggle gitignore', 'command': 'toggle-gitignore:tree-view-toggle' }
+    ]
+    '.tree-view .multi-select': [
+        { 'label': 'Toggle gitignore', 'command': 'toggle-gitignore:tree-view-toggle' }
+    ]
+    '.tab': [
+        { 'label': 'Toggle gitignore', 'command': 'toggle-gitignore:tab-toggle' }
+    ]

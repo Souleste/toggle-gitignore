@@ -1,0 +1,21 @@
+{
+    "name": "toggle-gitignore",
+    "main": "./lib/toggle-gitignore",
+    "version": "1.0.1",
+    "description": "Toggle folder/file in .gitignore via the context menus",
+    "keywords": [
+        "context-menu",
+        "gitignore"
+    ],
+    "activationHooks": [
+        "core:loaded-shell-environment"
+    ],
+    "repository": "https://github.com/Souleste/toggle-gitignore",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+        "child_process": "^1.0.2"
+    }
+}

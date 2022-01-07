@@ -1,0 +1,8 @@
+'.platform-win32 .tree-view, .platform-linux .tree-view':
+    'ctrl-g': 'toggle-gitignore:tree-view-toggle'
+
+'tree-view':
+    'ctrl-g': 'toggle-gitignore:tree-view-toggle'
+
+'tab':
+    'ctrl-g': 'toggle-gitignore:tab-toggle'
