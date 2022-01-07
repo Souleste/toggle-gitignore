@@ -1,7 +1,7 @@
 {
     "name": "toggle-gitignore",
     "main": "./lib/toggle-gitignore",
-    "version": "1.0.1",
+    "version": "0.0.0",
     "description": "Toggle folder/file in .gitignore via the context menus",
     "keywords": [
         "context-menu",
